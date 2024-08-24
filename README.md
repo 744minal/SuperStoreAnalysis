@@ -17,4 +17,4 @@ How has the company's performance trended over recent months?
 
 # DASHBOARD
 
-![Screenshot (156)](https://github.com/user-attachments/assets/9415722e-3445-4980-8887-5a514129b081)
+![Screenshot (156)](https://github.com/user-attachments/assets/6a76fb37-415b-49ba-b278-73b2de261f02)
