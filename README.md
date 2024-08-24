@@ -1,16 +1,18 @@
 # SuperStoreAnalysis
-This Tableau dashboard provides a comprehensive analysis of sales data from a retail superstore. The dashboard is designed to offer actionable insights into key business metrics, helping stakeholders understand the store's performance across various dimensions such as region, product category, and customer segment.
+EXECUTIVE OVERVIEW:
+Superstore is a fictional retail company based in the United States. They specialize in selling furniture, office supplies, and technology products. This summer, they hired me as a Business Intelligence Analyst at their Seattle office. My role is to identify weaknesses and opportunities within their business, and my goal is to help them enhance their business growth and profitability.
 
-Features:
+Business Questions:
+Which states and cities are generating the highest revenue?
+Which product category is both the best-selling and the most profitable?
+Which product sub-categories and specific products are top performers as well as those that are underperforming?
+Are there products that are frequently bought together?
+Which customer segment is bringing in the most profit?
+What is the most preferred shipping mode among our customers?
+How has the company's performance trended over recent months?
+ What are the KPIs?
 
-Sales Performance Overview: Visual representation of total sales, profit, and quantity sold across different regions.
-Product Category Analysis: Breakdown of sales and profit by product categories and subcategories, highlighting the top-performing products.
-Customer Segmentation: Insights into customer demographics, enabling targeted marketing strategies.
-Geographical Insights: Map visualization showing sales distribution across various states, helping identify high and low-performing regions.
-Trend Analysis: Line charts showcasing sales trends over time, providing a clear view of seasonal variations and growth patterns.
-Tools Used:
+# DATASET
+ The original dataset was obtained from the HiCounselor website. It contains 9993 sales transactions that occurred from 2019 to 2022. This dataset encompasses a wide range of information, including order specifics, geographical data, and product-related data. There are no missing values or any irrelevant data types and values. During the inspection process, a duplicate entry was identified and removed for accuracy. For those who are interested in viewing or downloading the refined dataset, it is available in my GitHub repository.
 
-Tableau: For creating interactive and dynamic visualizations.
-Data Source: Sample Superstore dataset from Tableau.
 
-Objective: The objective of this dashboard is to empower decision-makers with data-driven insights to optimize sales strategies, improve inventory management, and enhance customer satisfaction.
