@@ -15,4 +15,6 @@ How has the company's performance trended over recent months?
 # DATASET
  The original dataset was obtained from the HiCounselor website. It contains 9993 sales transactions that occurred from 2019 to 2022. This dataset encompasses a wide range of information, including order specifics, geographical data, and product-related data. There are no missing values or any irrelevant data types and values. During the inspection process, a duplicate entry was identified and removed for accuracy. For those who are interested in viewing or downloading the refined dataset, it is available in my GitHub repository.
 
+# DASHBOARD
 
+![Screenshot (156)](https://github.com/user-attachments/assets/9415722e-3445-4980-8887-5a514129b081)
