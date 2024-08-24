@@ -24,3 +24,11 @@ The West region boasted the highest revenue, with sales amounting to $725K, foll
 
 # Sales vs. Profit by Category and Sub-Category:
 The Technology category emerged as the leading performer in both sales and profit. Within this category, the Phones sub-category stood out with impressive sales and profit figures. On the other hand, the Furniture category showcased significant sales but had a notably lower profit margin. Within the Furniture category, the Tables displayed decent sales but operated at a loss. Additionally, both Bookcases and Supplies resulted in a negative profit for the company. These observations raise concerns, suggesting potential issues with the cost structure or pricing strategy, especially for the Tables, Bookcases, and Supplies subcategories.
+
+# Installation
+
+Tableau Public:
+https://www.tableau.com/en-gb/products/desktop/download
+
+# Tableau links:
+https://rb.gy/x5nndb
