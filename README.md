@@ -18,3 +18,9 @@ How has the company's performance trended over recent months?
 # DASHBOARD
 
 ![Screenshot (156)](https://github.com/user-attachments/assets/6a76fb37-415b-49ba-b278-73b2de261f02)
+
+# Sales by Region and state:
+The West region boasted the highest revenue, with sales amounting to $725K, followed by the East region with sales of $678K. Within those two regions, California, Washington, and New York were the top states that contributed the most revenue to the company. Therefore, the company should focus on marketing efforts and optimizing inventory in those states to further increase sales.
+
+# Sales vs. Profit by Category and Sub-Category:
+The Technology category emerged as the leading performer in both sales and profit. Within this category, the Phones sub-category stood out with impressive sales and profit figures. On the other hand, the Furniture category showcased significant sales but had a notably lower profit margin. Within the Furniture category, the Tables displayed decent sales but operated at a loss. Additionally, both Bookcases and Supplies resulted in a negative profit for the company. These observations raise concerns, suggesting potential issues with the cost structure or pricing strategy, especially for the Tables, Bookcases, and Supplies subcategories.
